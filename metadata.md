@@ -7,9 +7,9 @@ mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/experience-manager-release-overview-events.ja-JP
 index: true
 source-git-commit: f6244f4853d8b334c549bc6b779cc8868a71bc7e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '63'
-ht-degree: 60%
+ht-degree: 100%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 60%
 
 metadata.md ファイルには、リポジトリ内にあるユーザーガイドの TOC.md ファイルにパススルーされる、リポジトリレベルのメタデータが含まれています。任意のユーザーガイドの metadata.md コンテンツを変更するには、任意の TOC.md ファイル内で行います。
 
-詳しくは、 [メタデータ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) の有効な値のリスト **ソリューション**, **製品**、および **type**.
+**ソリューション**、**製品**、**タイプ**&#x200B;の有効な値のリストについては、[メタデータ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=ja)を参照してください。
