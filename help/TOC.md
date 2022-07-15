@@ -4,7 +4,7 @@ user-guide-breadcrumb: AEMCS Release Events
 user-guide-description: Adobe Experience Manager as a Cloud Service の最新機能の概要の説明
 breadcrumb-title: AEM CS リリースアップデート
 source-git-commit: 78db7decd3b6283f8a20766e7f8aa4a19adc8a26
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
 ht-degree: 100%
 
