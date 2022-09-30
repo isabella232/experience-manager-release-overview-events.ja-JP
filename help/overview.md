@@ -4,8 +4,8 @@ description: Adobe Experience Manager as a Cloud Service の最新機能の概�
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: 8dde75778f146a1e41330404143427137bd15c6e
-workflow-type: tm+mt
-source-wordcount: '192'
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -53,7 +53,7 @@ Adobe Experience Manager as a Cloud Service の最新機能の概要を説明し
         <em>リリース日： 2022年8月8日（PT）</em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">リリースノート</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja">リリースノート</a>
       <p>
     </td>
     <td>
@@ -68,7 +68,7 @@ Adobe Experience Manager as a Cloud Service の最新機能の概要を説明し
         <em>リリース日：2022年6月30日（PT）</em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">リリースノート</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja">リリースノート</a>
       <p>
     </td>
     <td>
@@ -83,7 +83,7 @@ Adobe Experience Manager as a Cloud Service の最新機能の概要を説明し
         <em>リリース日：2022年6月9日（PT）</em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">リリースノート</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja">リリースノート</a>
       <p>
     </td>
   </tr>
@@ -100,7 +100,7 @@ Adobe Experience Manager as a Cloud Service の最新機能の概要を説明し
         <em>リリース日：2022年5月5日（PT）</em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">リリースノート</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja">リリースノート</a>
       <p>
     </td>
     <td>
@@ -115,7 +115,7 @@ Adobe Experience Manager as a Cloud Service の最新機能の概要を説明し
         <em>リリース日：2022年3月31日（PT）</em>
       </div>
       <p>
-        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html">リリースノート</a>
+        <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja">リリースノート</a>
       <p>
     </td>
     <td>
