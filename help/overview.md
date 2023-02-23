@@ -4,9 +4,9 @@ description: Adobe Experience Manager as a Cloud Service の最新機能の概�
 user-guide-breadcrumb: AEM Release Events
 exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: f0bb8749fd075a4fcc366d28c6606087e323a9f7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '222'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -28,7 +28,7 @@ Adobe Experience Manager as a Cloud Service の最新機能の概要を説明し
           <strong>リリース | 2023.1.0</strong>
           <br/>
         </a>
-          <em>リリース日： 2023 年 2 月 </em>
+          <em>リリース日：2023年2月</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja">リリースノート</a>
@@ -47,10 +47,10 @@ Adobe Experience Manager as a Cloud Service の最新機能の概要を説明し
       </a>
       <div>
         <a href="./2022/2022-10-0.md">
- <strong>リリース | 2022.10.0</strong>
-        <br/>
+          <strong>リリース | 2022.10.0</strong>
+          <br/>
         </a>
-        <em>リリース日： 2022年10月13日</em>
+          <em>リリース日： 2022年10月13日</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja">リリースノート</a>
