@@ -6,7 +6,7 @@ exl-id: bca8675b-4245-4165-b736-652a4d504f50
 source-git-commit: b81d2a42145db4d00a06f1b857ce26f3da1d3ec1
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -27,8 +27,8 @@ Adobe Experience Manager as a Cloud Service の最新機能の概要を説明し
         <a href="./2023/2023-2-0.md">
           <strong>リリース | 2023.2.0</strong>
           <br/>
-        </a>
-          <em>リリース日： 2023 年 3 月 </em>
+          </a>
+          <em>リリース日：2023年3月</em>
       </div>
       <p>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=ja">リリースノート</a>
